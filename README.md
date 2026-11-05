@@ -27,7 +27,7 @@ I am an undergraduate student currently pursuing a **B.Sc. in Data Science**, wi
 
 - GitHub: [github.com/anushkabhawnani](https://github.com/anushkabhawnani)  
 - LinkedIn: [linkedin.com/in/anushka-bhawnani-0a3207316/](https://www.linkedin.com/in/anushka-bhawnani-0a3207316/)
-- Email: anushkab1411@gmail.com
+- Email: anushkaiscoding@gmail.com
 
 ---
 
